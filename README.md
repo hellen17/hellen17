@@ -16,7 +16,7 @@ I am a Computer Science Graduate and have over one year experience working as a 
 
 Here are some ideas to get you started:
 -->
-- 💻Current Techstack/Technologies:
+- 💻**Current Techstack/Technologies**:
   * Python
   * Django
   * HTML/CSS/JavaScript
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about Life , Technology
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hellenkokach/)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a proud cat mom😺
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellen17)](https://github.com/hellen17)
