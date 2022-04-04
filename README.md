@@ -1,6 +1,6 @@
 # Hi there 👋 Hellen here. Pleased to make your acquaintance😄.
 
-I am a Computer Science Graduate and have over one year experience working as a Product Developer.
+I am a Computer Science Graduate and have over one year experience working as a Product Developer on a variety of projects.
 
 ## 📰Check out my latest articles
 
