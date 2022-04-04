@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   * Django
   * HTML/CSS/JavaScript
   * SEO
+  * Wordpress
 
 - 🔭 I’m currently working on an ecommerce web application that makes legal documents accessible to small medium enterprises.
 - 🌱 I’m currently learning React
