@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellen17)](https://github.com/hellen17)
 
-![Hellen's github stats](https://github-readme-stats.vercel.app/api?username=hellen17&show_icons=true&hide_border=true&count_private=true)
+![Hellen's github stats](https://github-readme-stats.vercel.app/api?username=hellen17&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars)
 
