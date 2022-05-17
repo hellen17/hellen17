@@ -24,8 +24,9 @@ Here are some ideas to get you started:
   * Wordpress
 
 - 🔭 I’m currently working on an ecommerce web application that makes legal documents accessible to small medium enterprises.
-- 🌱 I’m currently learning React
 <!--
+- 🌱 I’m currently learning React
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
