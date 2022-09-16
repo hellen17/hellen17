@@ -1,6 +1,6 @@
-# Hi there 👋 Hellen here 😄.
+# Hi there 👋.
 
-I am a Computer Science Graduate and have over one year experience working as a Product Developer on a variety of projects.
+I am a Computer Science Graduate and have over one year experience working as a Product Developer on a variety of projects in the startup industry.
 
 ## 📰Check out my latest articles
 
@@ -23,8 +23,9 @@ Here are some ideas to get you started:
   * SEO
   * Wordpress
 
-- 🔭 I’m currently working on an ecommerce web application that makes legal documents accessible to small medium enterprises.
 <!--
+- 🔭 I’m currently working on an ecommerce web application that makes legal documents accessible to small medium enterprises.
+
 - 🌱 I’m currently learning React
 
 - 👯 I’m looking to collaborate on ...
