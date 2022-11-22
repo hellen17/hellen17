@@ -1,6 +1,6 @@
 # Hi there 👋.
 
-I am a Computer Science Graduate and have over one year experience working as a Product Developer on a variety of projects in the startup industry.
+I am a Computer Science Graduate and have over 2 years of experience working as a Software Developer on a variety of projects in the startup industry.
 
 ## 📰Check out my latest articles
 
