@@ -8,6 +8,12 @@ I am a Computer Science Graduate and have over 2 years of experience working as 
 
 
  [Getting Started with Git Workflow](https://medium.com/ian-product/getting-started-with-git-workflow-412609fe4b7c)
+ 
+ 
+ [Usability Tesing](https://blog.impactafrica.network/usability-testing-what-to-ask-your-users/)
+
+ 
+
 
 
 ------
@@ -20,6 +26,9 @@ Here are some ideas to get you started:
   * Python
   * Django
   * HTML/CSS/JavaScript
+  * React
+  * Styled components
+  * Tailwind/Chakra UI
   * SEO
   * Wordpress
 
