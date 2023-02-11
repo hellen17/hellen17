@@ -23,12 +23,13 @@ I am a Computer Science Graduate and have over 2 years of experience working as 
 Here are some ideas to get you started:
 -->
 - 💻**Current Techstack/Technologies**:
+  * HTML, CSS, SASS & JavaScript
+  * React
   * Python
   * Django
-  * HTML/CSS/JavaScript
-  * React
   * Styled components
-  * Tailwind/Chakra UI
+  * Tailwind
+  * Chakra UI/ Material UI/ Ant design
   * SEO
   * Wordpress
 
