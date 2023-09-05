@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about Life , Technology
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hellenkokach/), [Portfolio](https://hellenkokach.me/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hellenkokach/), [Portfolio](https://hellenkokach.netlify.app/)
 - ⚡ Fun fact: I am a proud cat mom😺
 
 <!--
