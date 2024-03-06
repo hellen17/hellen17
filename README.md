@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hellenkokach/), [Portfolio](https://hellenkokach.netlify.app/)
 - ⚡ Fun fact: I am a proud cat mom😺
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellen17&layout=compact)](https://github.com/hellen17)
 
-![Hellen's github stats](https://github-readme-stats.vercel.app/api?username=hellen17&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars)
+![Hellen's github stats](https://github-readme-stats.vercel.app/api?username=hellen17&show_icons=true&hide_border=true&count_private=true&theme=radical&hide=stars&rank_icon=percentile)
 
+-->
